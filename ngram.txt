@@ -1,0 +1,1 @@
+Here is an example of Ngram.Ngram is an sequence of words from a file.
